@@ -1,2 +1,3 @@
 # natabarit
-this is my first repo
+this is my first Repository.
+Author -Natabar
